@@ -1,4 +1,5 @@
 # A10-Decentralized-Funding-Platform-Based-On-Blockchain-Technology-
+
 DECENTRALIZED FUNDING PLATFORM BASED ON BLOCKCHAIN TECHNOLOGY
 
 1. The fundraiser need to register themselves by providing the Username, Password, Email and Phone number.
