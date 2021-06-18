@@ -1,5 +1,4 @@
 # A10-Decentralized-Funding-Platform-Based-On-Blockchain-Technology-
-
 DECENTRALIZED FUNDING PLATFORM BASED ON BLOCKCHAIN TECHNOLOGY
 
 1. The fundraiser need to register themselves by providing the Username, Password, Email and Phone number.
@@ -21,4 +20,4 @@ DECENTRALIZED FUNDING PLATFORM BASED ON BLOCKCHAIN TECHNOLOGY
 17. Both the funder and fundraiser can view the transaction history.
 18. Admin can login by providing the username and password.
 19. The admin can view the fundraiser details, funder details and the transaction history.
-20. Blockchain in crowdfunding allows decentralization which suggests that nobody within the network as control over the blocks which makes it transparent to everyone within the blockchain. 
+20. Blockchain in crowdfunding allows decentralization which suggests that nobody within the network as control over the blocks which makes it transparent to everyone within the blockchain.
